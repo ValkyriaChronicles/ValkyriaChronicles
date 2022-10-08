@@ -10,7 +10,7 @@
 
 
 ### Currently...  
-- I'm learning more and more about web development, but also back-end. At the moment, I'm exploring MongoDB!  
+- I'm learning more about web development, but I'm more focused on the back-end. At the moment, I'm exploring MongoDB!  
   
 
 
