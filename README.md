@@ -3,16 +3,12 @@
 ### Hey, I'm an aspiring full-stack developer with a focus on JavaScript.  
 - Always learning new things and reading up about latest technologies.  
   
-
-- For the future, I plan on learning Python and other more back-end focused things!  
   
-
 
 
 ### Currently...  
-- I'm learning more about web development, but I'm more focused on the back-end. At the moment, I'm exploring MongoDB!  
+- I'm learning more about web development, but I'm more focused on the back-end. At the moment, I'm exploring MongoDB & PHP/Laravel!  
   
-
 
 
 ### Skillset!  
